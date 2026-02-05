@@ -136,6 +136,18 @@ Fine-tuning on just **1% of the original TinyStories corpus** (5,000 stories) wi
 
 
 ## Citation
+If you use this code or methodology in your research, please cite:
+
+```bibtex
+@misc{semantic-context-tokens,
+  author = {Group Sem-antics},
+  title = {Semantic Context Tokens},
+  year = {2025},
+  url = {https://github.com/johnamit/semantic-context-tokens}
+}
+```
+
+
 **Large Concept Models:**
 ```bibtex
 @article{barrault2024large,
