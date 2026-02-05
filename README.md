@@ -135,12 +135,50 @@ The best configuration (2-sentence, 5 clusters) suggests gains may stem from **r
 Fine-tuning on just **1% of the original TinyStories corpus** (5,000 stories) with context tokens outperformed vanilla fine-tuning, demonstrating the approach's data efficiency.
 
 
-## References
-- Barrault et al. (2024). [Large Concept Models: Language Modeling in a Sentence Representation Space](https://arxiv.org/abs/2412.08821)
-- Eldan & Li (2023). [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
-- Borsos et al. (2023). [AudioLM: A Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143)
-- Frohmann et al. (2024). [Segment Any Text: A Universal Approach for Robust Sentence Segmentation](https://arxiv.org/abs/2406.16678)
+## Citation
+**Large Concept Models:**
+```bibtex
+@article{barrault2024large,
+  title={Large concept models: Language modeling in a sentence representation space},
+  author={Barrault, Lo{\"\i}c and Duquenne, Paul-Ambroise and Elbayad, Maha and Kozhevnikov, Artyom and Alastruey, Belen and Andrews, Pierre and Coria, Mariano and Couairon, Guillaume and Costa-juss{\`a}, Marta R and Dale, David and others},
+  journal={arXiv preprint arXiv:2412.08821},
+  year={2024}
+}
+```
 
+
+**Tinystories:**
+```bibtex
+@article{eldan2023tinystories,
+  title={Tinystories: How small can language models be and still speak coherent english?},
+  author={Eldan, Ronen and Li, Yuanzhi},
+  journal={arXiv preprint arXiv:2305.07759},
+  year={2023}
+}
+```
+
+**AudioLM:**
+```bibtex
+@article{borsos2023audiolm,
+  title={Audiolm: a language modeling approach to audio generation},
+  author={Borsos, Zal{\'a}n and Marinier, Rapha{\"e}l and Vincent, Damien and Kharitonov, Eugene and Pietquin, Olivier and Sharifi, Matt and Roblek, Dominik and Teboul, Olivier and Grangier, David and Tagliasacchi, Marco and others},
+  journal={IEEE/ACM transactions on audio, speech, and language processing},
+  volume={31},
+  pages={2523--2533},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
+**Segment any text:**
+```bibtex
+@article{frohmann2024segment,
+  title={Segment any text: A universal approach for robust, efficient and adaptable sentence segmentation},
+  author={Frohmann, Markus and Sterner, Igor and Vuli{\'c}, Ivan and Minixhofer, Benjamin and Schedl, Markus},
+  journal={arXiv preprint arXiv:2406.16678},
+  year={2024}
+}
+```
 
 
 ## License
