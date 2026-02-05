@@ -1,4 +1,6 @@
-# semantic-context-tokens
+<img src="assets/icons/sit_faf_edit2.png" alt="ContraCTGAN" width="900"><br>
+[<img src="https://img.shields.io/badge/Read%20Paper-PDF-black?style=for-the-badge&labelColor=0057FF&logo=adobeacrobat&logoColor=white" alt="Read Paper"/>](https://drive.google.com/file/d/1f_bSPjfhiGOoaf3Gu1gnbcc2W1wNWSec/view?usp=sharing)
+
 
 A hybrid tokenization framework that combines **coarse semantic context tokens** with **fine-grained sub-word tokens** to improve narrative cohesion and creativity in Large Language Models (LLMs). This research builds upon Meta's [Large Concept Models (LCMs)](https://github.com/facebookresearch/large_concept_model) by exploring a quantized, hierarchical generation paradigm ("big picture to small") mimicking human cognitive processes. This was a collaborative group research project conducted as part of my MSc programme at University College London.
 
