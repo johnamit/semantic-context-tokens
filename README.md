@@ -11,6 +11,7 @@ A hybrid tokenization framework that combines **coarse semantic context tokens**
   <a href="#results"><img src="https://img.shields.io/badge/Results-111111?style=for-the-badge" alt="Results"></a>
   <a href="#key-findings"><img src="https://img.shields.io/badge/Key Findings-111111?style=for-the-badge" alt="Key Findings"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Citation-111111?style=for-the-badge" alt="Citation"></a>
+  <a href="#license"><img src="https://img.shields.io/badge/License-111111?style=for-the-badge" alt="License"></a>
 </p>
 
 ## Overview
