@@ -4,6 +4,14 @@
 
 A hybrid tokenization framework that combines **coarse semantic context tokens** with **fine-grained sub-word tokens** to improve narrative cohesion and creativity in Large Language Models (LLMs). This research builds upon Meta's [Large Concept Models (LCMs)](https://github.com/facebookresearch/large_concept_model) by exploring a quantized, hierarchical generation paradigm ("big picture to small") mimicking human cognitive processes. This was a collaborative group research project conducted as part of my MSc programme at University College London.
 
+<p>
+  <a href="#overview"><img src="https://img.shields.io/badge/Overview-111111?style=for-the-badge" alt="Overview"></a>
+  <a href="#methodology"><img src="https://img.shields.io/badge/Methodology-111111?style=for-the-badge" alt="Methodology"></a>
+  <a href="#training-configuration"><img src="https://img.shields.io/badge/Training Config-111111?style=for-the-badge" alt="Training Configuration"></a>
+  <a href="#results"><img src="https://img.shields.io/badge/Results-111111?style=for-the-badge" alt="Results"></a>
+  <a href="#key-findings"><img src="https://img.shields.io/badge/Key Findings-111111?style=for-the-badge" alt="Key Findings"></a>
+  <a href="#citation"><img src="https://img.shields.io/badge/Citation-111111?style=for-the-badge" alt="Citation"></a>
+</p>
 
 ## Overview
 
