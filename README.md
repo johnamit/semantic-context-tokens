@@ -1,4 +1,4 @@
-<img src="assets/semantic_context_tokens.png" alt="ContraCTGAN" width="900"><br>
+<img src="assets/semantic_context_tokens.png" alt="# Semantic Context Tokens" width="900"><br>
 [<img src="https://img.shields.io/badge/Read%20Paper-PDF-black?style=for-the-badge&labelColor=0057FF&logo=adobeacrobat&logoColor=white" alt="Read Paper"/>](https://drive.google.com/file/d/1f_bSPjfhiGOoaf3Gu1gnbcc2W1wNWSec/view?usp=sharing)
 
 
